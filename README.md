@@ -24,6 +24,8 @@
 
 ## Why?
 
+![Demo](docs/images/demo-discord.png)
+
 You have Claude Code running on a powerful local machine. You want to trigger it from anywhere — your phone, a tablet, another PC — without exposing ports or setting up tunnels.
 
 **discord-claude-bot** bridges Discord and your local Claude Code CLI using only **outbound WebSocket connections**. No firewall changes. No ngrok. No public IP.
@@ -79,6 +81,8 @@ sequenceDiagram
 ---
 
 ## Commands
+
+![Commands](docs/images/commands-overview.png)
 
 | Command | Description |
 |:--------|:------------|
@@ -196,6 +200,8 @@ All settings are managed via environment variables (`.env` file).
 ---
 
 ## Architecture
+
+![Architecture](docs/images/architecture-overview.png)
 
 ### Session Lifecycle
 
