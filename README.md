@@ -20,11 +20,15 @@
 
 <br>
 
+
+[![GitHub stars](https://img.shields.io/github/stars/rojae/discord-claude-bot?style=social)](https://github.com/rojae/discord-claude-bot/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/rojae/discord-claude-bot?style=social)](https://github.com/rojae/discord-claude-bot/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/rojae/discord-claude-bot)](https://github.com/rojae/discord-claude-bot/issues)
 </div>
 
 ## Why?
 
-![Demo](docs/images/demo-discord.png)
+![Demo](docs/images/demo.gif)
 
 You have Claude Code running on a powerful local machine. You want to trigger it from anywhere — your phone, a tablet, another PC — without exposing ports or setting up tunnels.
 
@@ -351,6 +355,10 @@ discord-claude-bot/
 </details>
 
 ---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rojae/discord-claude-bot&type=Date)](https://star-history.com/#rojae/discord-claude-bot&Date)
 
 ## Contributing
 
