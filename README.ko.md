@@ -24,6 +24,8 @@
 
 ## 왜 필요한가?
 
+![Demo](docs/images/demo-discord.png)
+
 강력한 로컬 머신에서 Claude Code를 실행하고 있습니다. 핸드폰, 태블릿, 다른 PC 어디서든 트리거하고 싶지만 포트를 열거나 터널을 설정하고 싶지는 않습니다.
 
 **discord-claude-bot**은 **아웃바운드 WebSocket 연결만** 사용하여 Discord와 로컬 Claude Code CLI를 연결합니다. 방화벽 변경 불필요. ngrok 불필요. 공인 IP 불필요.
@@ -79,6 +81,8 @@ sequenceDiagram
 ---
 
 ## 명령어
+
+![Commands](docs/images/commands-overview.png)
 
 | 커맨드 | 설명 |
 |:-------|:-----|
@@ -196,6 +200,8 @@ python main.py
 ---
 
 ## 아키텍처
+
+![Architecture](docs/images/architecture-overview.png)
 
 ### 세션 생애주기
 
