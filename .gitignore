@@ -31,7 +31,6 @@ Thumbs.db
 result_*.txt
 
 # Runtime data
-data/
 llm-workspace/
 
 # Claude Code / OMC
