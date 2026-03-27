@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Logs & PID
+*.log
+bot.pid
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files
+result_*.txt
+
+# Runtime data
+data/
+llm-workspace/
+
+# Claude Code / OMC
+.claude/
+.omc/
+
+# Shell scripts output
+nohup.out
